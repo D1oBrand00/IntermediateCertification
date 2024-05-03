@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +10,16 @@ namespace task3
     {
         static void Main(string[] args)
         {
-            Point A = new Point(4, 7, "A");
-            Point B = new Point(3, 5, "B");
-            Figure fig = new Figure(A, B);
-            Console.WriteLine($"{fig.LengthSide(A,B)}");
+            Point A = new Point(3, 5, "A");
+            Point B = new Point(4, 7, "B");
+            Point C = new Point(2, 1, "B");
+            Point D = new Point(5, 4, "B");
+            Point[] ps = new Point[] { A, B,C,D };
+            Figure fig = new Figure(ps);
+            fig.Output();
             Console.ReadKey();
-            
+
         }
+        
     }
 }
