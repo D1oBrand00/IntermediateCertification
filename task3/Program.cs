@@ -10,11 +10,22 @@ namespace task3
     {
         static void Main(string[] args)
         {
-            Point A = new Point(3, 5, "A");
-            Point B = new Point(4, 7, "B");
-            Point C = new Point(2, 1, "B");
-            Point D = new Point(5, 4, "B");
-            Point[] ps = new Point[] { A, B,C,D };
+            
+            Console.Write("Введите кол-во точек");
+            int count = int.Parse(Console.ReadLine());
+            Point[] ps = new Point[count] ;
+            for (int i = 0; i < count-1;i++)
+            {
+                Console.Write("Введите данные точки X:");
+                int x = int.Parse(Console.ReadLine());
+                Console.Write("Введите данные точки Y:");
+                int y = int.Parse(Console.ReadLine());
+                Console.Write("Введите название точки");
+                string n = Console.ReadLine();
+                ps[i] = new Point(x, y, n);
+            }    
+            
+
             Figure fig = new Figure(ps);
             fig.Output();
             Console.ReadKey();
