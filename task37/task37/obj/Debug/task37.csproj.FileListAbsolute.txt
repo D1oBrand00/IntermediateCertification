@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\task37\task37\bin\Debug\task37.exe.config
+C:\Users\Kab-35-6\source\repos\task37\task37\bin\Debug\task37.exe
+C:\Users\Kab-35-6\source\repos\task37\task37\bin\Debug\task37.pdb
+C:\Users\Kab-35-6\source\repos\task37\task37\obj\Debug\task37.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\task37\task37\obj\Debug\task37.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\task37\task37\obj\Debug\task37.exe
+C:\Users\Kab-35-6\source\repos\task37\task37\obj\Debug\task37.pdb
