@@ -1,0 +1,7 @@
+E:\oaip\task44\task44\bin\Debug\task44.exe.config
+E:\oaip\task44\task44\bin\Debug\task44.exe
+E:\oaip\task44\task44\bin\Debug\task44.pdb
+E:\oaip\task44\task44\obj\Debug\task44.csproj.AssemblyReference.cache
+E:\oaip\task44\task44\obj\Debug\task44.csproj.CoreCompileInputs.cache
+E:\oaip\task44\task44\obj\Debug\task44.exe
+E:\oaip\task44\task44\obj\Debug\task44.pdb
