@@ -1,0 +1,6 @@
+E:\oaip\task40\task40\bin\Debug\task40.exe.config
+E:\oaip\task40\task40\bin\Debug\task40.exe
+E:\oaip\task40\task40\bin\Debug\task40.pdb
+E:\oaip\task40\task40\obj\Debug\task40.csproj.CoreCompileInputs.cache
+E:\oaip\task40\task40\obj\Debug\task40.exe
+E:\oaip\task40\task40\obj\Debug\task40.pdb
