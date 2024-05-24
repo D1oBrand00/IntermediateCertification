@@ -1,0 +1,7 @@
+E:\oaip\task47\task47\bin\Debug\task47.exe.config
+E:\oaip\task47\task47\bin\Debug\task47.exe
+E:\oaip\task47\task47\bin\Debug\task47.pdb
+E:\oaip\task47\task47\obj\Debug\task47.csproj.AssemblyReference.cache
+E:\oaip\task47\task47\obj\Debug\task47.csproj.CoreCompileInputs.cache
+E:\oaip\task47\task47\obj\Debug\task47.exe
+E:\oaip\task47\task47\obj\Debug\task47.pdb
