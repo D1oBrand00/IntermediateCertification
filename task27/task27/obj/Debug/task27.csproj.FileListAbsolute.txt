@@ -1,0 +1,7 @@
+E:\oaip\task27\task27\bin\Debug\task27.exe.config
+E:\oaip\task27\task27\bin\Debug\task27.exe
+E:\oaip\task27\task27\bin\Debug\task27.pdb
+E:\oaip\task27\task27\obj\Debug\task27.csproj.AssemblyReference.cache
+E:\oaip\task27\task27\obj\Debug\task27.csproj.CoreCompileInputs.cache
+E:\oaip\task27\task27\obj\Debug\task27.exe
+E:\oaip\task27\task27\obj\Debug\task27.pdb

@@ -1,0 +1,7 @@
+E:\oaip\task29\task29\bin\Debug\task29.exe.config
+E:\oaip\task29\task29\bin\Debug\task29.exe
+E:\oaip\task29\task29\bin\Debug\task29.pdb
+E:\oaip\task29\task29\obj\Debug\task29.csproj.CoreCompileInputs.cache
+E:\oaip\task29\task29\obj\Debug\task29.exe
+E:\oaip\task29\task29\obj\Debug\task29.pdb
+E:\oaip\task29\task29\obj\Debug\task29.csproj.AssemblyReference.cache
